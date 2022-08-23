@@ -1,0 +1,19 @@
+D:\Source\CNO.BPA.MDWAudit - Copy\CopyToPageMetadata\CopyToPageMetadata\obj\Debug\MergeDocuments.csprojResolveAssemblyReference.cache
+D:\Source\CNO.BPA.MDWAudit - Copy\CopyToPageMetadata\CopyToPageMetadata\obj\Debug\MergeDocuments.dll
+D:\Source\CNO.BPA.MDWAudit - Copy\CopyToPageMetadata\CopyToPageMetadata\obj\Debug\MergeDocuments.pdb
+D:\7.1 Files\BPA.net\CaptureSystem\CNO Captiva Capture System\bin\MergeDocuments.dll
+D:\7.1 Files\BPA.net\CaptureSystem\CNO Captiva Capture System\bin\MergeDocuments.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.MergeDocuments\trunk\CNO.BPA.MergeDocuments\CopyToPageMetadata\obj\Debug\MergeDocuments.csproj.AssemblyReference.cache
+D:\7.1 Files\BPA.net\CNO.BPA.MergeDocuments\trunk\CNO.BPA.MergeDocuments\CopyToPageMetadata\obj\Debug\MergeDocuments.csproj.CoreCompileInputs.cache
+D:\7.1 Files\BPA.net\CNO.BPA.MergeDocuments\trunk\CNO.BPA.MergeDocuments\CopyToPageMetadata\obj\Debug\MergeDocuments.csproj.CopyComplete
+D:\7.1 Files\BPA.net\CNO.BPA.MergeDocuments\trunk\CNO.BPA.MergeDocuments\CopyToPageMetadata\obj\Debug\MergeDocuments.dll
+D:\7.1 Files\BPA.net\CNO.BPA.MergeDocuments\trunk\CNO.BPA.MergeDocuments\CopyToPageMetadata\obj\Debug\MergeDocuments.pdb
+D:\ProdCodebase\CNO.BPA.MergeDocuments\CopyToPageMetadata\bin\Debug\MergeDocuments.dll
+D:\ProdCodebase\CNO.BPA.MergeDocuments\CopyToPageMetadata\bin\Debug\MergeDocuments.pdb
+D:\ProdCodebase\CNO.BPA.MergeDocuments\CopyToPageMetadata\bin\Debug\Emc.InputAccel.CaptureClient.dll
+D:\ProdCodebase\CNO.BPA.MergeDocuments\CopyToPageMetadata\bin\Debug\Emc.InputAccel.CaptureClient.xml
+D:\ProdCodebase\CNO.BPA.MergeDocuments\CopyToPageMetadata\obj\Debug\MergeDocuments.csproj.AssemblyReference.cache
+D:\ProdCodebase\CNO.BPA.MergeDocuments\CopyToPageMetadata\obj\Debug\MergeDocuments.csproj.CoreCompileInputs.cache
+D:\ProdCodebase\CNO.BPA.MergeDocuments\CopyToPageMetadata\obj\Debug\MergeDocuments.csproj.CopyComplete
+D:\ProdCodebase\CNO.BPA.MergeDocuments\CopyToPageMetadata\obj\Debug\MergeDocuments.dll
+D:\ProdCodebase\CNO.BPA.MergeDocuments\CopyToPageMetadata\obj\Debug\MergeDocuments.pdb

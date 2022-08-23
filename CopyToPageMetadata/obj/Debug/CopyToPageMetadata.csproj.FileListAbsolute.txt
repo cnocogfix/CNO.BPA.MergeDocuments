@@ -1,0 +1,11 @@
+D:\Source\CNO.BPA.MDWAudit - Copy\CopyToPageMetadata\CopyToPageMetadata\bin\Debug\CopyToPageMetadata.dll
+D:\Source\CNO.BPA.MDWAudit - Copy\CopyToPageMetadata\CopyToPageMetadata\bin\Debug\CopyToPageMetadata.pdb
+D:\Source\CNO.BPA.MDWAudit - Copy\CopyToPageMetadata\CopyToPageMetadata\bin\Debug\Emc.InputAccel.CaptureClient.dll
+D:\Source\CNO.BPA.MDWAudit - Copy\CopyToPageMetadata\CopyToPageMetadata\bin\Debug\log4net.dll
+D:\Source\CNO.BPA.MDWAudit - Copy\CopyToPageMetadata\CopyToPageMetadata\bin\Debug\Emc.InputAccel.CaptureClient.xml
+D:\Source\CNO.BPA.MDWAudit - Copy\CopyToPageMetadata\CopyToPageMetadata\bin\Debug\log4net.xml
+D:\Source\CNO.BPA.MDWAudit - Copy\CopyToPageMetadata\CopyToPageMetadata\obj\Debug\CopyToPageMetadata.csprojResolveAssemblyReference.cache
+D:\Source\CNO.BPA.MDWAudit - Copy\CopyToPageMetadata\CopyToPageMetadata\obj\Debug\CopyToPageMetadata.dll
+D:\Source\CNO.BPA.MDWAudit - Copy\CopyToPageMetadata\CopyToPageMetadata\obj\Debug\CopyToPageMetadata.pdb
+D:\CaptureSystem\CNO Captiva Capture System\bin\CopyToPageMetadata.dll
+D:\CaptureSystem\CNO Captiva Capture System\bin\CopyToPageMetadata.pdb
